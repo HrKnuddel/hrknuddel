@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Alloh 👋
+Hey, its me Knuddel
+Ich bin ein kleiner IT Experte und mache auch manchmal komische Dinge in irgendwelchen Programmiersprachen 
 <!--
 **HrKnuddel/hrknuddel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
